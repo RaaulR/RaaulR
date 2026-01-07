@@ -7,10 +7,10 @@
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 
 ### Technologies
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Apps Script](https://img.shields.io/badge/-Apps%20Script-333333?style=flat&logo=google)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
