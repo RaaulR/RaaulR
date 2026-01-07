@@ -29,6 +29,8 @@
 <a href="https://www.linkedin.com/in/raulruizcuenca1996/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raúl%20Ruiz-blue?style=flat-square&logo=linkedin"></a>
 <a href="raulruizcuenca1996@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-raulruizcuenca1996@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=RaaulR&show_icons=true)
+![GitHub Stats](https://github-readme-stats-omega-orpin-69.vercel.app/api?username=RaaulR&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats-omega-orpin-69.vercel.app/api/top-langs/?username=RaaulR&layout=compact&theme=dark&hide_border=true)
 
 <p ="left"> <img src="https://komarev.com/ghpvc/?username=RaaulR&label=Profile%20views&color=0e75b6&style=flat" alt="RaaulR" /> </p>
