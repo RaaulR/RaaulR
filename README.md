@@ -8,6 +8,7 @@
 
 ### Technologies
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Apps Script](https://img.shields.io/badge/-Apps%20Script-333333?style=flat&logo=google)
