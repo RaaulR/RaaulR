@@ -2,7 +2,7 @@
 <h2>Full Stack Developer</h2>
 
 ### About Me
-- I am 29 years old and I am from Madrid, Spain.
+- I am 30 years old and I am from Madrid, Spain.
 - I am a full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 
